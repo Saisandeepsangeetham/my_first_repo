@@ -2,6 +2,6 @@
 
 some descrption!
 
-#subheader added some instructions in the file:
+this can invove the conflict in the master branch
 hello there whats up..
 just looking into the beginning of the git hub and usage of git
